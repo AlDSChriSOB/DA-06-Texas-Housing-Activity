@@ -1,0 +1,11 @@
+column,dtype,missing,missing_pct,distinct
+rownames,int64,0,0.0,8602
+city,object,0,0.0,46
+year,int64,0,0.0,16
+month,int64,0,0.0,12
+sales,float64,568,6.603115554522204,1711
+volume,float64,568,6.603115554522204,7494
+median,float64,616,7.161125319693094,1537
+listings,float64,1424,16.554289700069752,3702
+inventory,float64,1467,17.05417344803534,295
+date,float64,0,0.0,187

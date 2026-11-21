@@ -1,0 +1,16 @@
+{
+  "project": "Texas Housing Activity",
+  "executed_utc": "2026-11-21T10:14:10.612394+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/ggplot2/txhousing.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/ggplot2/txhousing.html",
+  "sha256": "dcd1d3d019f3a29dd4d3906334e05bc9080d9f2f52f10d302e9f6c258592a53d",
+  "raw_rows": 8602,
+  "analysis_rows": 8034,
+  "excluded_rows": 568,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8"
+}

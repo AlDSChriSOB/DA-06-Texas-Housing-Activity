@@ -1,0 +1,14 @@
+{
+  "id": 6,
+  "title": "Texas Housing Activity",
+  "question": "How does monthly sales volume differ across cities?",
+  "x": "city",
+  "y": "sales",
+  "mode": "group",
+  "caveat": "Mean monthly sales depends on city size and available months; missing months are not zero sales.",
+  "action": "Compare matched calendar periods and normalise by housing stock.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/ggplot2/txhousing.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/ggplot2/txhousing.html",
+  "metric_label": "mean sales",
+  "method": "Complete-case descriptive comparison of sales by city; show group counts, mean, minimum and maximum."
+}
